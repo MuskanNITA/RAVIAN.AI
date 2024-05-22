@@ -1,3 +1,13 @@
+
+
+
+
+
+![WhatsApp Image 2024-05-22 at 19 39 27_d2e1c3fd](https://github.com/MuskanNITA/RAVIAN.AI/assets/115357215/9478fbc6-183e-482c-aa97-f01e5aff6931)
+![WhatsApp Image 2024-05-22 at 19 39 28_9fe4f75a](https://github.com/MuskanNITA/RAVIAN.AI/assets/115357215/6df39369-7c38-4095-bcfa-a8aa317a8ba0)
+![WhatsApp Image 2024-05-22 at 19 39 27_2445b747](https://github.com/MuskanNITA/RAVIAN.AI/assets/115357215/9c93beac-7758-47f8-9654-a3fb1dfb4847)
+![WhatsApp Image 2024-05-22 at 19 39 26_99dc88bd](https://github.com/MuskanNITA/RAVIAN.AI/assets/115357215/5739e9cb-37c9-4bbf-939f-fbe457893ad7)
+![WhatsApp Image 2024-05-22 at 19 39 28_4074c725](https://github.com/MuskanNITA/RAVIAN.AI/assets/115357215/ec6021f2-7732-43a2-bbf2-af38a58660cb)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
